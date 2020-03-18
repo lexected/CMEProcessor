@@ -338,3 +338,5 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+CMEProcessor/xcme_md_ge_fut_20191008-r-00063
+CMEProcessor/xcme_md_ge_fut
